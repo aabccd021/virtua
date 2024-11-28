@@ -12,6 +12,10 @@
       "import": "./lib/index.mjs",
       "default": "./lib/index.js"
     },
+    "./core": {
+      "import": "./src/core/index.ts",
+      "default": "./src/core/index.ts"
+    },
     "./vue": {
       "types": "./lib/vue/index.d.ts",
       "import": "./lib/vue/index.mjs",
